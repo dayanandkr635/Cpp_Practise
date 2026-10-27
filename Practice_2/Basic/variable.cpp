@@ -11,8 +11,15 @@ int main(){
 // x=x*5;
 // cout<<x;
 
-int x=12;
-x+=7;
-x*=5;
-cout<<x;
+// int x=12;
+// x+=7;
+// x*=5;
+// cout<<x;
+
+int x=24;
+cout<<++x<<endl;
+cout<<x<<endl;
+cout<<x--<<endl;
+cout<<--x<<endl;
+cout<<-x<<endl;
 }
