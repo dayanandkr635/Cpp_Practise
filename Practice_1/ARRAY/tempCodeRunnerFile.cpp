@@ -1,6 +1,7 @@
-  // int arr[5];
-    // arr[0]=12;
-    // arr[1]=13;
-    // arr[2]=14;
-    // arr[3]=15;
-    // arr[4]=16;
+
+    // // Length of array
+    // int n=sizeof(arr)/sizeof(int);
+    // cout<<"Length of arr :"<<n<<endl;
+    // for(int i=0; i<=n-1; i++){
+    //     cout<<arr[i]<<" ";
+    // }
