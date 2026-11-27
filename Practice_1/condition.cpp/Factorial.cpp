@@ -12,6 +12,6 @@ int main(){
         for(int i=1; i<=n; i++){
             fact*=i;
         }
-        cout<<fact;
+        cout<<fact<<endl;
     }
 }
